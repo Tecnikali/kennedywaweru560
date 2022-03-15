@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kennedywaweru560
 - 👀 I’m interested in web development, network security
 - 🌱 I’m currently learning linux, web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kennedywaweru560@gmail.com
 
 <!---
