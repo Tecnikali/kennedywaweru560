@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kennedywaweru560
+- 👋 Hi, I’m Kennedy Waweru
 - 👀 I’m interested in web development, network security
 - 🌱 I’m currently learning linux, web development
 - 📫 How to reach me kennedywaweru560@gmail.com
